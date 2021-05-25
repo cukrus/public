@@ -1,3 +1,3 @@
 # hello-world
 
-this is one crappy readme file :D
+just a public repo for hosting some files
